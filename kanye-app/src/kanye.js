@@ -17,7 +17,7 @@ export default function Kanye(){
       <View style={styles.container}>
       
 
-        <Button title="Conhecimento" onPress={() => chamaKen(ken)} />
+        <Button title="  Frases  " onPress={() => chamaKen(ken)} />
 
         <Text style={styles.kenye}>{kenye.quote}</Text>
       </View>    
